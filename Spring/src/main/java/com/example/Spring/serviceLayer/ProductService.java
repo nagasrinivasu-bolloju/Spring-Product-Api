@@ -1,4 +1,4 @@
-package com.example.SpringserviceLayer;
+package com.example.Spring.serviceLayer;
 
 import java.util.List;
 import java.util.Optional;
